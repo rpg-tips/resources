@@ -4,7 +4,7 @@
 
 1. [Scarlet Heroes](https://www.drivethrurpg.com/product/127180/Scarlet-Heroes) (and check out the other games by Sine Nomine).
 2. [Ironsworn](https://www.ironswornrpg.com/)
-3. [One Many Army](docs/one-man-army.pdf)
+3. [One Man Army](docs/one-man-army.pdf)
 
 ## Conjecture Games
 
